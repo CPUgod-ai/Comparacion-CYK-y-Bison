@@ -148,7 +148,8 @@ TOKENS          BISON (ms)      RAM B (MB)   CYK (ms)      RAM C (MB)
 
 Muestra la diferencia de tiempo en escala logaritmica. La curva roja de CYK sube disparada mientras la azul de Bison se mantiene casi plana.
 
-*(insertar grafica_rendimiento.png aqui)*
+<img width="1374" height="819" alt="image" src="https://github.com/user-attachments/assets/c0cabbc5-a4ab-4492-9a03-9538ac4211ab" />
+
 
 ---
 
@@ -156,17 +157,13 @@ Muestra la diferencia de tiempo en escala logaritmica. La curva roja de CYK sube
 
 Muestra el uso de RAM de cada algoritmo segun la cantidad de tokens.
 
-*(insertar comparativa_memoria.png aqui)*
+<img width="1368" height="826" alt="image" src="https://github.com/user-attachments/assets/c641ca53-91c7-404a-958b-603289123770" />
+
 
 ---
 
-### Grafica final combinada
 
-Las dos metricas juntas en un solo panel — tiempo a la izquierda y memoria a la derecha.
 
-*(insertar grafica_final.png aqui)*
-
----
 
 ## Analisis
 
